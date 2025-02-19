@@ -26,5 +26,13 @@ public class ReverseTheDigit {
 
         }
         return isNegative ? -newNum : newNum; // Restore negative sign if needed
+
+        //the same above ternary operator can be written as follows or can be written in one line as above
+
+        /*if (isNegative) {
+            return -newNum;
+        } else {
+            return newNum;
+        }*/
     }
 }

@@ -15,12 +15,11 @@ public class SumOfTheDigits {
         }
 
         public static int sum(int num){
-            int sumOFDigits = 0;
-            int i = 1;
+            int sumOfDigits = 0;
             while(num > 0){
-                sumOFDigits = sumOFDigits + num % 10;
+                sumOfDigits = sumOfDigits + num % 10;
                 num = num/10;
             }
-            return sumOFDigits;
+            return sumOfDigits;
     }
 }

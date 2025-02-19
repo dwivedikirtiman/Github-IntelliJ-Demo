@@ -9,10 +9,12 @@ public class PrintNumberFrom1toN {
         System.out.print("\nEnter a number: ");
         int num = input.nextInt();
 
-        int i =1;
+        /*int i =1;
         while(i <= num){
             System.out.print(i + " ");
             i++;
-        }
+        }*/
+
+        //if we don't want to write in main method directly then we can create the method as follows
     }
 }
