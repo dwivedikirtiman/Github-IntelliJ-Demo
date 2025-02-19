@@ -10,9 +10,13 @@ public class FibonacciProgram {
 
         int num = input.nextInt();
         input.close(); // Close Scanner to prevent resource leak
+        if(num < 0){
+            System.out.println("Invalid input! Please input positive number for Fibonacci series");
+        }else{
+            System.out.print("The Fibonacci series up to " + num + " terms is: ");
+            printFibonacci(num);
+        }
 
-        System.out.print("The Fibonacci series up to " + num + " terms is: ");
-        printFibonacci(num);
     }
 
     public static void printFibonacci(int num) {
