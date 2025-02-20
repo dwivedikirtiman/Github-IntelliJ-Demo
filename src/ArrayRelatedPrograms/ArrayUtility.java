@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class ArrayUtility {
     public static int[] inputArray() {
         Scanner input = new Scanner(System.in);
-        System.out.println("Enter the number of elements");
+        System.out.print("\nEnter the number of elements: ");
         int size = input.nextInt();
         int[] nums = new int[size];
         int i = 0;
