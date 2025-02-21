@@ -64,7 +64,7 @@ public class Book {
             System.out.println("The book is not available, try next time");
         }else{
             this.isBorrowed = true;
-            System.out.println("Enjoy the book reading");
+            System.out.println("Enjoy the book "+ title);
         }
    }
 
