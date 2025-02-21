@@ -82,5 +82,10 @@ public class Book {
         Book myBook2 = new Book("2");
         Book.getTotalNoOfBooks();
         System.out.println("Total number of books are :" + getTotalNoOfBooks());
+        myBook.borrowedBook();
+        myBook2.borrowedBook();
+        myBook.returnBook();
+        myBook.borrowedBook();
+        myBook2.borrowedBook();
     }
 }
