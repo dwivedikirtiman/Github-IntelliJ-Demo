@@ -28,7 +28,7 @@ public class SwitchTypeOne {
                 break;
             case 6:
                 System.out.println("Saturday");
-                break;
+                //break;                            //if we don't put break then it will go to next condition it is called fall through of switch casing as i'm falling through one condition and going to next condition directly without break
             case 7:
                 System.out.println("Sunday");
                 break;
