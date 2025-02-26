@@ -1,3 +1,5 @@
+#This program will find the GCD of the given numbers
+
 package WhileLoopMethodsAndArray;
 import java.util.Scanner;
 
