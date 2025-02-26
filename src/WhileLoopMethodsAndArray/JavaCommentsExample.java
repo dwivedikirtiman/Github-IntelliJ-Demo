@@ -1,3 +1,5 @@
+//This program is just showing the use of the comments in the Java language
+
 package WhileLoopMethodsAndArray;
 
 public class JavaCommentsExample {
