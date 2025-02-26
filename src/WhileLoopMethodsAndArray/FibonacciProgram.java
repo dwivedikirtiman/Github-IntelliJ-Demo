@@ -1,4 +1,4 @@
-#This program will print the Fibonacci series till the given number by the user
+//This program will print the Fibonacci series till the given number by the user
 
 
 package WhileLoopMethodsAndArray;
