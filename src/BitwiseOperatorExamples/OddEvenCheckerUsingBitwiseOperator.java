@@ -1,3 +1,5 @@
+//This program will check Even or Odd numbers using Bitwise Operator
+
 package BitwiseOperatorExamples;
 
 import java.util.Scanner;
