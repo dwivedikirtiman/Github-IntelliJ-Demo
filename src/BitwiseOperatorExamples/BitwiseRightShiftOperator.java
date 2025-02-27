@@ -1,3 +1,5 @@
+//This program will show Bitwise Right Shift operator
+
 package BitwiseOperatorExamples;
 
 import java.util.Scanner;
