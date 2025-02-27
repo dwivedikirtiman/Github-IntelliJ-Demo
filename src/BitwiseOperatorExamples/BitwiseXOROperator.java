@@ -1,3 +1,5 @@
+//This program will show Bitwise XOR operator
+
 package BitwiseOperatorExamples;
 
 import java.util.Scanner;
