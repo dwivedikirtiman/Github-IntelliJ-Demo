@@ -1,3 +1,5 @@
+//This program will check greatest of three given numbers
+
 package IfElseExample;
 
 import java.util.Scanner;
