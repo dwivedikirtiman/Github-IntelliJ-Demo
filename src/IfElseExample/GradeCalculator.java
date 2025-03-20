@@ -1,3 +1,5 @@
+//This program will check the grade as per the received number in exam
+
 package IfElseExample;
 
 import java.util.Scanner;
