@@ -1,3 +1,5 @@
+//This  program will show the array sum and average
+
 package ArrayRelatedPrograms;
 
 import java.util.Scanner;
