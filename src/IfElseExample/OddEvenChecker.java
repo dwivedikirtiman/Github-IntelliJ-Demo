@@ -1,3 +1,5 @@
+//This is a simple odd even checker program
+
 package IfElseExample;
 
 import java.util.Scanner;
