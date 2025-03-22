@@ -1,3 +1,5 @@
+//This program will check whether the given number is positive or negative
+
 package IfElseExample;
 
 import java.util.Scanner;
