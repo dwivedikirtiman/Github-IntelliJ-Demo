@@ -1,3 +1,5 @@
+//This program will check the given year is leap year or not a leap year
+
 package IfElseExample;
 
 import java.util.Scanner;
