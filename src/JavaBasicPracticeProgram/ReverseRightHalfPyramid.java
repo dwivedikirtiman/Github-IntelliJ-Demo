@@ -1,3 +1,5 @@
+//This program print ReverseRightHalfPyramid
+
 package JavaBasicPracticeProgram;
 
 public class ReverseRightHalfPyramid {
