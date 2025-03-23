@@ -1,3 +1,5 @@
+//This program will print LeftHalfPyramid 
+
 package JavaBasicPracticeProgram;
 
 public class LeftHalfPyramid {
