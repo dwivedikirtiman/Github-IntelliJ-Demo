@@ -1,3 +1,5 @@
+//This program will sum all the odd numbers till the given number by the user
+
 package WhileLoopMethodsAndArray;
 
 import java.util.Scanner;
