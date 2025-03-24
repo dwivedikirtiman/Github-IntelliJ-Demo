@@ -1,3 +1,5 @@
+//This program will show the LCM of the numbers provided
+
 package WhileLoopMethodsAndArray;
 
 import javax.sound.midi.Soundbank;
