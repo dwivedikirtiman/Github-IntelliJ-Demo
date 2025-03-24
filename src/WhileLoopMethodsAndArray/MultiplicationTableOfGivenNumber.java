@@ -1,3 +1,5 @@
+//This program will print the multiplication table of the given number
+
 package WhileLoopMethodsAndArray;
 
 import java.util.Scanner;
