@@ -1,3 +1,5 @@
+//This is a simple example of addition of two numbers
+
 package OperatorAndIfElseChapter4;
 
 import java.util.Scanner;
