@@ -1,3 +1,5 @@
+//This program will add two binary strings
+
 package OperatorAndIfElseChapter4;
 
 
